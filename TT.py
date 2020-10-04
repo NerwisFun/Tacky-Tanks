@@ -4,7 +4,6 @@ from tank import *
 import zipfile
 import io
 
-
 archive = zipfile.ZipFile('data.gg', 'r')
 
 def Load_Image_From_Zip(archive,image_name):
