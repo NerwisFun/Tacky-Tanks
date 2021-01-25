@@ -10,7 +10,7 @@
 
 This game is our final project for [Harvard CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science). It's a simple 2D game written in Python3 language. To develop our game [Pygame](https://www.pygame.org/) module has mostly been used.
 
-
+Here the tutorial video: https://www.youtube.com/watch?v=68WHvrYTk1Q
 
 ###### P.S.  We used Visual Studio Code source-code text editor during the whole process. It may not work on cloud-based online IDEs, at least it didn't on CS50 IDE.
 
